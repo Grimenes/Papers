@@ -1,4 +1,4 @@
-This repository contains input files necessary to reproduce the data generated and analyzed in the article *Exceptional thermoelectric properties in Na$_2$TlSb enabled by quasi-1D band structure*. Included are stripped versions of *vaspout.h5* files from VASP and python scripts for running AMSET.
+This repository contains input files necessary to reproduce the data generated and analyzed in the article *Exceptional thermoelectric properties in Na₂TlSb enabled by quasi-1D band structure*. Included are stripped versions of *vaspout.h5* files from VASP and python scripts for running AMSET.
 
 ### Description  
  - vaspout_01.h5: 1st relaxation of crystal structure
